@@ -1,5 +1,8 @@
-# bittorrent price gnome ticket 
+# bittorrent gnome price ticker
 
-Gnome 3 desktop ticker for bittorrent price with Python and argos. Rename to bittorrent.1r.60s.py and put in ~/.config/argos
+Get bittorrent price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/bittorrent-price-gnome-ticket/](https://codesharedot.github.io/bittorrent-price-gnome-ticket/)
 
-https://pythonbasics.org
+bittorrent price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to bittorrent.1r60s.py and put in ~/.config/argos
